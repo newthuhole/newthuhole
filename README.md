@@ -1,7 +1,9 @@
 ## Hi there 👋
 ### Together We Make ThuHole Great Again
 
-![treehole-en c616044](https://user-images.githubusercontent.com/102496813/160316311-6f403198-533c-4d81-b3a5-b50b245fb9fd.png)
+![PhotoFunia-1649304878](https://user-images.githubusercontent.com/102496813/162338045-504ae434-9534-4da9-994c-6ad7b2cb048a.jpg)
+![PhotoFunia-1649304741](https://user-images.githubusercontent.com/102496813/162338046-1a3d0838-2068-4da0-9ece-51a502c4abe7.jpg)
+
 
 <!--
 **newthuhole/newthuhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
